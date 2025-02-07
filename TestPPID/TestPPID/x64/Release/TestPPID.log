@@ -1,0 +1,6 @@
+﻿  TestPPID.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TestPPID.vcxproj -> C:\Users\Heshan\source\repos\TestPPID\x64\Release\TestPPID.exe
